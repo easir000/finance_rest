@@ -1,5 +1,19 @@
 <p>cd financial_health</p>
 <p>python -m venv myenv <br />myenv\Scripts\activate</p>
+
+
+
+<p>python -m venv myenv <br />myenv\Scripts\activate</p>
+
+<p>pip install django</p>
+<p>pip install djangorestframework</p>
+
+
+
+
+
+
+
 <p><br />//Run the migrate command<br />python manage.py migrate <br />python manage.py runserver<br />python manage.py makemigrations<br /> python3 manage.py migrate</p>
 <p>&nbsp;</p>
 <p><br />//Update the settings.py</p>
