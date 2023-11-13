@@ -1,21 +1,12 @@
 <p>cd financial_health</p>
-
-<p>python -m venv myenv  myenv\Scripts\activate</p>
-
-<p> //Run the migrate command python manage.py migrate  python manage.py runserver python manage.py makemigrations  python3 manage.py migrate</p>
-
-<p> //Update the settings.py</p>
-
-<p>DATABASES = {   'default': {   'ENGINE': 'django.db.backends.mysql',   'NAME': 'my_database',   'USER': 'root',   'PASSWORD': 'your_password',   'HOST': '127.0.0.1',   'PORT': '3306',   'OPTIONS': {   'init_command': &quot;SET sql_mode='STRICT_TRANS_TABLES'&quot;   }   }  }</p>
-
-<p></p>
-
-<p>cd .. vue create financial-health-frontend cd financial-health-frontend</p>
-
-<p>npm install -g @vue/cli npm install</p>
-
-<p></p>
-
-<p>npm install vue-router vuex npm install axios npm install vue-router@next vuex@next npm install vue@next vue-router@next vuex@next vue add router vue add vuex npm install axios npm install chart.js vue-chartjs npm install vue-router@4 vuex@4</p>
-
+<p>python -m venv myenv <br />myenv\Scripts\activate</p>
+<p><br />//Run the migrate command<br />python manage.py migrate <br />python manage.py runserver<br />python manage.py makemigrations<br /> python3 manage.py migrate</p>
+<p>&nbsp;</p>
+<p><br />//Update the settings.py</p>
+<p>DATABASES = { <br /> 'default': { <br /> 'ENGINE': 'django.db.backends.mysql', <br /> 'NAME': 'my_database', <br /> 'USER': 'root', <br /> 'PASSWORD': 'your_password', <br /> 'HOST': '127.0.0.1', <br /> 'PORT': '3306', <br /> 'OPTIONS': { <br /> 'init_command': "SET sql_mode='STRICT_TRANS_TABLES'" <br /> } <br /> } <br />}</p>
+<p>&nbsp;</p>
+<p>cd ..<br />vue create financial-health-frontend<br />cd financial-health-frontend</p>
+<p>npm install -g @vue/cli<br />npm install</p>
+<p>&nbsp;</p>
+<p>npm install vue-router vuex<br />npm install axios<br />npm install vue-router@next vuex@next<br />npm install vue@next vue-router@next vuex@next<br />vue add router<br />vue add vuex<br />npm install axios<br />npm install chart.js vue-chartjs<br />npm install vue-router@4 vuex@4</p>
 <p>npm run serve</p>
